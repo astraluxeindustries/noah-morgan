@@ -19,7 +19,7 @@ export const About: React.FC = () => {
             {/* Placeholder for Desiree's actual photo. Using a professional business woman placeholder from Unsplash that matches description */}
             <img 
               src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976&auto=format&fit=crop" 
-              alt="Desiree Contessa" 
+              alt="Noah" 
               className="w-full h-full object-cover"
             />
           </div>
