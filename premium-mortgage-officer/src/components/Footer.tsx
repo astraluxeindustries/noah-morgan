@@ -9,7 +9,7 @@ export const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-white font-serif text-2xl font-bold mb-4">Sarah Jenkins</h3>
             <p className="mb-4 text-slate-400 max-w-sm">
-              Helping families in Seattle and King County achieve their homeownership dreams with integrity, transparency, and expertise.
+              Helping families in Texas achieve their homeownership dreams with integrity, transparency, and expertise.
             </p>
             <div className="flex items-center space-x-2 text-white">
               <Home className="w-5 h-5" />
@@ -42,7 +42,7 @@ export const Footer = () => {
         <div className="border-t border-slate-800 pt-8 text-sm text-center md:text-left flex flex-col md:flex-row justify-between items-center">
           <p>&copy; {new Date().getFullYear()} Sarah Jenkins | Premier Mortgage Group. All rights reserved.</p>
           <p className="mt-2 md:mt-0">
-            NMLS #123456 | WA License #MLO-123456
+            NMLS #1695255 | TX 
           </p>
         </div>
         
