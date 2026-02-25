@@ -11,27 +11,27 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Noah Morgan" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Noah Morgan
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                With over 15 years of experience in the mortgage industry, I have dedicated my career to helping families achieve the dream of homeownership. My approach is simple: listen first, advise second.
+                Noah Morgan believes the mortgage process should feel clear, strategic, and personal. As a Mortgage Consultant, he focuses on building real relationships with his clients and guiding them through one of the most important financial decisions they will make.
               </p>
               <p>
-                I understand that a mortgage is not just a loan; it's likely the largest financial commitment you will make. That's why I take the time to explain every detail, ensuring you feel confident and empowered throughout the process.
+                Known for his steady communication and genuine approach, Noah takes time to understand each client’s goals before recommending a solution. Whether you are purchasing your first home, refinancing, or investing in property, he works to simplify the process and remove unnecessary stress. His priority is making sure you feel informed, confident, and supported from application to closing.
               </p>
               <p>
-                Whether you are buying your first home, investing in real estate, or refinancing, I am committed to finding the best loan solution for your unique situation.
+                Outside of work, Noah is a devoted husband and father who values time spent with family above all else. He enjoys staying active through golf and mountain biking, and he appreciates the balance that comes from both outdoor adventure and personal wellness. His grounded, authentic nature carries into his professional life, where clients consistently value his honesty and calm presence.
               </p>
               <p>
-                When I'm not closing loans, you can find me hiking the trails of the Pacific Northwest or volunteering at the local food bank.
+                For Noah, mortgage advising is not just about rates and paperwork. It is about helping families create stability, opportunity, and a place to build lasting memories.
               </p>
             </div>
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-2 gap-4">
