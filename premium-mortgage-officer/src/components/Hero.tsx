@@ -19,7 +19,7 @@ export const Hero = () => {
         <div className="max-w-2xl">
           <div className="inline-flex items-center space-x-2 bg-blue-900/30 border border-blue-500/30 rounded-full px-3 py-1 mb-6 backdrop-blur-sm">
             <span className="flex h-2 w-2 rounded-full bg-blue-400"></span>
-            <span className="text-blue-100 text-xs font-medium tracking-wide uppercase">Trusted Mortgage Expert in Seattle, WA</span>
+            <span className="text-blue-100 text-xs font-medium tracking-wide uppercase">Trusted Mortgage Expert in Plano,TX</span>
           </div>
           
           <h1 className="text-4xl lg:text-6xl font-serif font-bold text-white leading-tight mb-6">
