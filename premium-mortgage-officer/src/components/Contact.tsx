@@ -51,8 +51,8 @@ export const Contact = () => {
                 <div>
                   <p className="text-sm text-slate-500 font-medium uppercase tracking-wide">Office</p>
                   <p className="text-slate-900">
-                    123 Financial District Blvd, Suite 400<br />
-                    Seattle, WA 98101
+                    619 S Bluff Street Tower 2 Ste 1B<br />
+                    St George, UT 84770
                   </p>
                 </div>
               </div>
