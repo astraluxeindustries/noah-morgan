@@ -28,7 +28,7 @@ export const Hero = () => {
           </h1>
           
           <p className="text-lg text-slate-200 mb-8 leading-relaxed max-w-xl">
-            Helping First-Time Buyers, Homeowners, and Investors secure competitive, strategic home financing across King County.
+            Helping First-Time Buyers, Homeowners, and Investors secure competitive, strategic home financing across Texas.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
